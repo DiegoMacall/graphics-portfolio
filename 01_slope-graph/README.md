@@ -2,7 +2,7 @@
 
 **Central America, 1982 → 2007**
 
-![Slope Graph](slope_graph.png)
+![Slope Graph](01_slope-graph/slopegraph_central_america.jpg)
 
 ---
 
