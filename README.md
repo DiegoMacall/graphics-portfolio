@@ -66,7 +66,7 @@ Each folder contains:
 
 
 ### 9️⃣ Financial Dashboard — Half-Year 2025
-[![Finance Dashboard](https://github.com/DiegoMacall/graphics-portfolio/blob/main/09_dashboard/thumb.png)]([docs/finance-dashboard/index.html](https://github.com/DiegoMacall/graphics-portfolio/blob/main/09_dashboard/index.html))
+[![Finance Dashboard](https://github.com/DiegoMacall/graphics-portfolio/blob/main/09_dashboard/thumb.png)](09_dashboard) 
 > KPIs, composition, and period-over-period deltas in a compact layout.
 
 ---
