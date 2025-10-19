@@ -64,6 +64,11 @@ Each folder contains:
 [![Design Signature](08_design-signature/signature.png)](08_design-signature)
 > *A glimpse of my design DNA — podcast visuals, quote cards, and minimalist compositions.*
 
+
+### 9️⃣ Financial Dashboard — Half-Year 2025
+[![Finance Dashboard](02_finance-dashboard/thumb.png)](docs/finance-dashboard/index.html)
+> KPIs, composition, and period-over-period deltas in a compact layout.
+> 
 ---
 
 ## ⚙️ Tools & Languages
