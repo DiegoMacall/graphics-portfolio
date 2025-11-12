@@ -60,9 +60,9 @@ Each folder contains:
 
 ---
 
-### 8️⃣ Design Signature
+### 8️⃣ Tidy Tuesday
 [![Design Signature](08_design-signature/signature.png)](08_design-signature)
-> *A glimpse of my design DNA — podcast visuals, quote cards, and minimalist compositions.*
+> *tidytuesday World TB Example*
 
 
 ### 9️⃣ Financial Dashboard — Half-Year 2025
