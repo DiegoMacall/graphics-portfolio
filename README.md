@@ -61,7 +61,7 @@ Each folder contains:
 ---
 
 ### 8️⃣ Tidy Tuesday
-[![Design Signature](08_tidy-tuesday/faceted.png)](08_tidy-tuesday)
+[![Faceted](08_tidy-tuesday/faceted.png)](08_tidy-tuesday)
 > *tidytuesday World TB Example*
 
 
