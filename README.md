@@ -18,6 +18,14 @@ Each folder contains:
 
 ## 🗂️ Portfolio Highlights
 
+### ICABR 2026 Budget Tool App
+
+### 1️⃣ Urban Sustainability Dashboard
+[![ICABR2026_Budget_Tool](ICABR2026_Budget_Tool/ICABR0.png)](ICABR2026_Budget_Tool)
+> *A data-driven synthesis of Barcelona’s rooftop agriculture potential and its contribution to the city’s food metabolism.*
+
+---
+
 ### 1️⃣ Urban Sustainability Dashboard
 [![Urban Dashboard](01_urban-dashboard/dashboard.png)](01_urban-dashboard)
 > *A data-driven synthesis of Barcelona’s rooftop agriculture potential and its contribution to the city’s food metabolism.*
