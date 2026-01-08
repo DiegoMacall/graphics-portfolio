@@ -19,10 +19,8 @@ Each folder contains:
 ## 🗂️ Portfolio Highlights
 
 ### ICABR 2026 Budget Tool App
-
-### 1️⃣ Urban Sustainability Dashboard
 [![ICABR2026_Budget_Tool](ICABR2026_Budget_Tool/ICABR0.png)](ICABR2026_Budget_Tool)
-> *A data-driven synthesis of Barcelona’s rooftop agriculture potential and its contribution to the city’s food metabolism.*
+> *An interactive R Shiny application that models income, fixed and variable costs, and scenario outcomes to support transparent and flexible budget planning for the ICABR 2026 conference.*
 
 ---
 
