@@ -15,6 +15,7 @@ Visuals that connect science, policy, and design.**
 
 ## 🌆 About
 I’m **Diego M. Macall**, a researcher and visual analyst specialized in environmental systems, sustainability, and data storytelling.  
+
 This portfolio showcases my ability to translate complex datasets into clear, elegant, and insightful visuals combining scientific precision with design discipline.
 
 Each folder contains:
