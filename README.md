@@ -9,6 +9,7 @@ Visuals that connect science, policy, and design.**
 ![tidyverse](https://img.shields.io/badge/tidyverse-1.3.2-blue)
 ![ggplot2](https://img.shields.io/badge/ggplot2-visualization-orange)
 ![shiny](https://img.shields.io/badge/shiny-webapps-green)
+![github]( https://img.shields.io/badge/github-repo-blue?logo=github)
 
 
 ---
