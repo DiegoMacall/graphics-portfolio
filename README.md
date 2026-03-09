@@ -7,6 +7,7 @@ Visuals that connect science, policy, and design.**
 
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
+[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#)
 ![tidyverse](https://img.shields.io/badge/tidyverse-1.3.2-blue)
 ![ggplot2](https://img.shields.io/badge/ggplot2-visualization-orange)
 ![shiny](https://img.shields.io/badge/shiny-webapps-green)
