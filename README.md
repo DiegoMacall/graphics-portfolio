@@ -3,7 +3,7 @@
 **Transforming data into clarity.  
 Visuals that connect science, policy, and design.**
 
-## Libraries and IDEs Used
+## IDEs Used and Libraries
 
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
