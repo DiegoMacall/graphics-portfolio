@@ -11,7 +11,8 @@ Visuals that connect science, policy, and design.**
 ![shiny](https://img.shields.io/badge/shiny-webapps-green)
 ![GitHub]( https://img.shields.io/badge/github-repo-blue?logo=github)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)])
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![D3](https://img.shields.io/badge/-D3.js-F9A03C?style=flat&logo=d3dotjs&logoColor=white)
 
 ---
 
