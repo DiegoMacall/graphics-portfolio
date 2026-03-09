@@ -121,7 +121,7 @@ This repository and its contents are licensed under a
 
 ## 📬 Contact
 👨‍💻 **Website:** [diegomacall.github.io](https://diegomacall.github.io)  
-✉️ **Email:** diego.macall@usask.ca  
+✉️ **Email:** diego.macall@uab.cat
 🔗 **LinkedIn:** [linkedin.com/in/DiegoMacall](www.linkedin.com/in/diego-macall)  
 📘 **Bluesky:** [@diegommacall.bsky.social]([https://bsky.app/profile/diegomacall](https://bsky.app/profile/diegommacall.bsky.social))
 
