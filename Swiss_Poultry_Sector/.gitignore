@@ -1,0 +1,20 @@
+# Local environments, credentials and notebooks caches
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Local geography cache downloaded automatically by notebook
+swiss_cantons_2025.geojson
+# Ignore unreviewed files accidentally placed in outputs
+outputs/*
+!outputs/swiss_laying_breeding_chickens_trend.png
+!outputs/swiss_laying_breeding_chickens_canton_2025.png
+!outputs/swiss_laying_breeding_chickens_infographic.png

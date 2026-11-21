@@ -1,0 +1,885 @@
+﻿canton_id,canton,canton_name,year,laying_and_breeding_chickens
+1,ZH,Zürich,1975,324130
+1,ZH,Zürich,1980,281460
+1,ZH,Zürich,1985,249925
+1,ZH,Zürich,1990,216273
+1,ZH,Zürich,1996,173908
+1,ZH,Zürich,1997,191738
+1,ZH,Zürich,1998,203917
+1,ZH,Zürich,1999,206821
+1,ZH,Zürich,2000,194382
+1,ZH,Zürich,2001,188507
+1,ZH,Zürich,2002,182360
+1,ZH,Zürich,2003,187774
+1,ZH,Zürich,2004,175662
+1,ZH,Zürich,2005,188921
+1,ZH,Zürich,2006,181131
+1,ZH,Zürich,2007,173143
+1,ZH,Zürich,2008,166724
+1,ZH,Zürich,2009,184219
+1,ZH,Zürich,2010,176284
+1,ZH,Zürich,2011,171883
+1,ZH,Zürich,2012,175075
+1,ZH,Zürich,2013,180978
+1,ZH,Zürich,2014,178107
+1,ZH,Zürich,2015,193570
+1,ZH,Zürich,2016,205558
+1,ZH,Zürich,2017,219325
+1,ZH,Zürich,2018,233161
+1,ZH,Zürich,2019,251648
+1,ZH,Zürich,2020,285451
+1,ZH,Zürich,2021,284131
+1,ZH,Zürich,2022,286824
+1,ZH,Zürich,2023,283657
+1,ZH,Zürich,2024,276909
+1,ZH,Zürich,2025,273512
+2,BE,Bern / Berne,1975,418468
+2,BE,Bern / Berne,1980,397863
+2,BE,Bern / Berne,1985,395194
+2,BE,Bern / Berne,1990,374469
+2,BE,Bern / Berne,1996,298267
+2,BE,Bern / Berne,1997,281346
+2,BE,Bern / Berne,1998,280432
+2,BE,Bern / Berne,1999,302802
+2,BE,Bern / Berne,2000,275334
+2,BE,Bern / Berne,2001,231569
+2,BE,Bern / Berne,2002,280561
+2,BE,Bern / Berne,2003,274986
+2,BE,Bern / Berne,2004,259300
+2,BE,Bern / Berne,2005,279137
+2,BE,Bern / Berne,2006,274009
+2,BE,Bern / Berne,2007,282865
+2,BE,Bern / Berne,2008,315690
+2,BE,Bern / Berne,2009,321538
+2,BE,Bern / Berne,2010,321532
+2,BE,Bern / Berne,2011,332832
+2,BE,Bern / Berne,2012,338670
+2,BE,Bern / Berne,2013,327120
+2,BE,Bern / Berne,2014,352635
+2,BE,Bern / Berne,2015,349612
+2,BE,Bern / Berne,2016,408473
+2,BE,Bern / Berne,2017,399611
+2,BE,Bern / Berne,2018,414302
+2,BE,Bern / Berne,2019,415769
+2,BE,Bern / Berne,2020,452626
+2,BE,Bern / Berne,2021,486268
+2,BE,Bern / Berne,2022,470401
+2,BE,Bern / Berne,2023,474770
+2,BE,Bern / Berne,2024,467957
+2,BE,Bern / Berne,2025,475983
+3,LU,Luzern,1975,210362
+3,LU,Luzern,1980,215918
+3,LU,Luzern,1985,277080
+3,LU,Luzern,1990,259270
+3,LU,Luzern,1996,222407
+3,LU,Luzern,1997,237131
+3,LU,Luzern,1998,236550
+3,LU,Luzern,1999,203668
+3,LU,Luzern,2000,211252
+3,LU,Luzern,2001,218585
+3,LU,Luzern,2002,229824
+3,LU,Luzern,2003,219670
+3,LU,Luzern,2004,234142
+3,LU,Luzern,2005,245423
+3,LU,Luzern,2006,264380
+3,LU,Luzern,2007,285260
+3,LU,Luzern,2008,266681
+3,LU,Luzern,2009,288385
+3,LU,Luzern,2010,285903
+3,LU,Luzern,2011,280648
+3,LU,Luzern,2012,276482
+3,LU,Luzern,2013,289163
+3,LU,Luzern,2014,266954
+3,LU,Luzern,2015,268372
+3,LU,Luzern,2016,288453
+3,LU,Luzern,2017,288788
+3,LU,Luzern,2018,311341
+3,LU,Luzern,2019,304226
+3,LU,Luzern,2020,328293
+3,LU,Luzern,2021,337436
+3,LU,Luzern,2022,352657
+3,LU,Luzern,2023,355477
+3,LU,Luzern,2024,350608
+3,LU,Luzern,2025,362862
+4,UR,Uri,1975,4710
+4,UR,Uri,1980,3992
+4,UR,Uri,1985,3236
+4,UR,Uri,1990,3727
+4,UR,Uri,1996,2079
+4,UR,Uri,1997,2032
+4,UR,Uri,1998,2355
+4,UR,Uri,1999,2469
+4,UR,Uri,2000,2603
+4,UR,Uri,2001,2506
+4,UR,Uri,2002,4245
+4,UR,Uri,2003,4103
+4,UR,Uri,2004,3974
+4,UR,Uri,2005,3935
+4,UR,Uri,2006,3848
+4,UR,Uri,2007,3780
+4,UR,Uri,2008,3781
+4,UR,Uri,2009,3783
+4,UR,Uri,2010,3865
+4,UR,Uri,2011,2207
+4,UR,Uri,2012,4058
+4,UR,Uri,2013,3876
+4,UR,Uri,2014,3396
+4,UR,Uri,2015,3653
+4,UR,Uri,2016,4113
+4,UR,Uri,2017,3891
+4,UR,Uri,2018,3948
+4,UR,Uri,2019,3824
+4,UR,Uri,2020,3980
+4,UR,Uri,2021,4209
+4,UR,Uri,2022,2352
+4,UR,Uri,2023,4336
+4,UR,Uri,2024,4348
+4,UR,Uri,2025,4365
+5,SZ,Schwyz,1975,28498
+5,SZ,Schwyz,1980,19068
+5,SZ,Schwyz,1985,22209
+5,SZ,Schwyz,1990,26375
+5,SZ,Schwyz,1996,28060
+5,SZ,Schwyz,1997,33517
+5,SZ,Schwyz,1998,31675
+5,SZ,Schwyz,1999,39923
+5,SZ,Schwyz,2000,34233
+5,SZ,Schwyz,2001,41165
+5,SZ,Schwyz,2002,40466
+5,SZ,Schwyz,2003,40628
+5,SZ,Schwyz,2004,28401
+5,SZ,Schwyz,2005,31192
+5,SZ,Schwyz,2006,32749
+5,SZ,Schwyz,2007,33041
+5,SZ,Schwyz,2008,36280
+5,SZ,Schwyz,2009,39418
+5,SZ,Schwyz,2010,39890
+5,SZ,Schwyz,2011,47693
+5,SZ,Schwyz,2012,49777
+5,SZ,Schwyz,2013,51516
+5,SZ,Schwyz,2014,50682
+5,SZ,Schwyz,2015,50688
+5,SZ,Schwyz,2016,51363
+5,SZ,Schwyz,2017,52868
+5,SZ,Schwyz,2018,55190
+5,SZ,Schwyz,2019,55915
+5,SZ,Schwyz,2020,54410
+5,SZ,Schwyz,2021,62487
+5,SZ,Schwyz,2022,62590
+5,SZ,Schwyz,2023,62418
+5,SZ,Schwyz,2024,60051
+5,SZ,Schwyz,2025,64291
+6,OW,Obwalden,1975,31798
+6,OW,Obwalden,1980,22383
+6,OW,Obwalden,1985,21728
+6,OW,Obwalden,1990,26322
+6,OW,Obwalden,1996,30884
+6,OW,Obwalden,1997,23292
+6,OW,Obwalden,1998,22440
+6,OW,Obwalden,1999,21361
+6,OW,Obwalden,2000,21137
+6,OW,Obwalden,2001,23552
+6,OW,Obwalden,2002,27434
+6,OW,Obwalden,2003,23740
+6,OW,Obwalden,2004,23896
+6,OW,Obwalden,2005,17486
+6,OW,Obwalden,2006,17623
+6,OW,Obwalden,2007,16759
+6,OW,Obwalden,2008,13648
+6,OW,Obwalden,2009,13718
+6,OW,Obwalden,2010,12406
+6,OW,Obwalden,2011,15827
+6,OW,Obwalden,2012,15235
+6,OW,Obwalden,2013,17069
+6,OW,Obwalden,2014,16967
+6,OW,Obwalden,2015,16988
+6,OW,Obwalden,2016,16579
+6,OW,Obwalden,2017,19130
+6,OW,Obwalden,2018,19172
+6,OW,Obwalden,2019,19310
+6,OW,Obwalden,2020,19133
+6,OW,Obwalden,2021,19734
+6,OW,Obwalden,2022,20486
+6,OW,Obwalden,2023,22848
+6,OW,Obwalden,2024,21178
+6,OW,Obwalden,2025,20704
+7,NW,Nidwalden,1975,10515
+7,NW,Nidwalden,1980,12518
+7,NW,Nidwalden,1985,19897
+7,NW,Nidwalden,1990,16948
+7,NW,Nidwalden,1996,18378
+7,NW,Nidwalden,1997,14197
+7,NW,Nidwalden,1998,19733
+7,NW,Nidwalden,1999,26287
+7,NW,Nidwalden,2000,21327
+7,NW,Nidwalden,2001,22940
+7,NW,Nidwalden,2002,22998
+7,NW,Nidwalden,2003,21029
+7,NW,Nidwalden,2004,19595
+7,NW,Nidwalden,2005,22272
+7,NW,Nidwalden,2006,18907
+7,NW,Nidwalden,2007,20230
+7,NW,Nidwalden,2008,21548
+7,NW,Nidwalden,2009,19383
+7,NW,Nidwalden,2010,23557
+7,NW,Nidwalden,2011,22144
+7,NW,Nidwalden,2012,17419
+7,NW,Nidwalden,2013,22776
+7,NW,Nidwalden,2014,25290
+7,NW,Nidwalden,2015,24850
+7,NW,Nidwalden,2016,22573
+7,NW,Nidwalden,2017,22581
+7,NW,Nidwalden,2018,20482
+7,NW,Nidwalden,2019,21978
+7,NW,Nidwalden,2020,21300
+7,NW,Nidwalden,2021,22473
+7,NW,Nidwalden,2022,22350
+7,NW,Nidwalden,2023,22278
+7,NW,Nidwalden,2024,22146
+7,NW,Nidwalden,2025,22466
+8,GL,Glarus,1975,24142
+8,GL,Glarus,1980,24038
+8,GL,Glarus,1985,16351
+8,GL,Glarus,1990,3469
+8,GL,Glarus,1996,18837
+8,GL,Glarus,1997,20422
+8,GL,Glarus,1998,8197
+8,GL,Glarus,1999,6178
+8,GL,Glarus,2000,8137
+8,GL,Glarus,2001,18652
+8,GL,Glarus,2002,7945
+8,GL,Glarus,2003,7774
+8,GL,Glarus,2004,7698
+8,GL,Glarus,2005,8403
+8,GL,Glarus,2006,8365
+8,GL,Glarus,2007,8256
+8,GL,Glarus,2008,8668
+8,GL,Glarus,2009,20195
+8,GL,Glarus,2010,24812
+8,GL,Glarus,2011,24667
+8,GL,Glarus,2012,26091
+8,GL,Glarus,2013,25168
+8,GL,Glarus,2014,25877
+8,GL,Glarus,2015,26000
+8,GL,Glarus,2016,25893
+8,GL,Glarus,2017,26764
+8,GL,Glarus,2018,27000
+8,GL,Glarus,2019,11903
+8,GL,Glarus,2020,13454
+8,GL,Glarus,2021,13897
+8,GL,Glarus,2022,12100
+8,GL,Glarus,2023,11471
+8,GL,Glarus,2024,11461
+8,GL,Glarus,2025,11425
+9,ZG,Zug,1975,18574
+9,ZG,Zug,1980,17460
+9,ZG,Zug,1985,20333
+9,ZG,Zug,1990,21894
+9,ZG,Zug,1996,24662
+9,ZG,Zug,1997,24621
+9,ZG,Zug,1998,25894
+9,ZG,Zug,1999,22455
+9,ZG,Zug,2000,24844
+9,ZG,Zug,2001,25228
+9,ZG,Zug,2002,24749
+9,ZG,Zug,2003,21862
+9,ZG,Zug,2004,23787
+9,ZG,Zug,2005,25535
+9,ZG,Zug,2006,23439
+9,ZG,Zug,2007,24335
+9,ZG,Zug,2008,23315
+9,ZG,Zug,2009,23259
+9,ZG,Zug,2010,24344
+9,ZG,Zug,2011,22975
+9,ZG,Zug,2012,23846
+9,ZG,Zug,2013,25230
+9,ZG,Zug,2014,28009
+9,ZG,Zug,2015,28376
+9,ZG,Zug,2016,26128
+9,ZG,Zug,2017,27937
+9,ZG,Zug,2018,31121
+9,ZG,Zug,2019,31909
+9,ZG,Zug,2020,38018
+9,ZG,Zug,2021,40440
+9,ZG,Zug,2022,39577
+9,ZG,Zug,2023,41532
+9,ZG,Zug,2024,39440
+9,ZG,Zug,2025,39393
+10,FR,Fribourg / Freiburg,1975,158179
+10,FR,Fribourg / Freiburg,1980,157098
+10,FR,Fribourg / Freiburg,1985,146795
+10,FR,Fribourg / Freiburg,1990,157210
+10,FR,Fribourg / Freiburg,1996,114937
+10,FR,Fribourg / Freiburg,1997,114720
+10,FR,Fribourg / Freiburg,1998,115482
+10,FR,Fribourg / Freiburg,1999,97649
+10,FR,Fribourg / Freiburg,2000,105761
+10,FR,Fribourg / Freiburg,2001,93665
+10,FR,Fribourg / Freiburg,2002,126819
+10,FR,Fribourg / Freiburg,2003,95754
+10,FR,Fribourg / Freiburg,2004,99897
+10,FR,Fribourg / Freiburg,2005,112967
+10,FR,Fribourg / Freiburg,2006,112287
+10,FR,Fribourg / Freiburg,2007,107760
+10,FR,Fribourg / Freiburg,2008,108606
+10,FR,Fribourg / Freiburg,2009,105359
+10,FR,Fribourg / Freiburg,2010,137916
+10,FR,Fribourg / Freiburg,2011,122110
+10,FR,Fribourg / Freiburg,2012,156285
+10,FR,Fribourg / Freiburg,2013,165779
+10,FR,Fribourg / Freiburg,2014,160714
+10,FR,Fribourg / Freiburg,2015,185926
+10,FR,Fribourg / Freiburg,2016,213911
+10,FR,Fribourg / Freiburg,2017,210926
+10,FR,Fribourg / Freiburg,2018,223295
+10,FR,Fribourg / Freiburg,2019,228315
+10,FR,Fribourg / Freiburg,2020,233015
+10,FR,Fribourg / Freiburg,2021,249105
+10,FR,Fribourg / Freiburg,2022,268704
+10,FR,Fribourg / Freiburg,2023,256581
+10,FR,Fribourg / Freiburg,2024,274234
+10,FR,Fribourg / Freiburg,2025,257244
+11,SO,Solothurn,1975,74311
+11,SO,Solothurn,1980,83471
+11,SO,Solothurn,1985,76683
+11,SO,Solothurn,1990,55013
+11,SO,Solothurn,1996,43883
+11,SO,Solothurn,1997,58832
+11,SO,Solothurn,1998,45399
+11,SO,Solothurn,1999,51126
+11,SO,Solothurn,2000,40715
+11,SO,Solothurn,2001,45391
+11,SO,Solothurn,2002,50870
+11,SO,Solothurn,2003,43873
+11,SO,Solothurn,2004,45972
+11,SO,Solothurn,2005,37419
+11,SO,Solothurn,2006,28101
+11,SO,Solothurn,2007,27222
+11,SO,Solothurn,2008,38529
+11,SO,Solothurn,2009,27716
+11,SO,Solothurn,2010,27172
+11,SO,Solothurn,2011,26326
+11,SO,Solothurn,2012,32631
+11,SO,Solothurn,2013,34352
+11,SO,Solothurn,2014,37075
+11,SO,Solothurn,2015,40777
+11,SO,Solothurn,2016,39684
+11,SO,Solothurn,2017,49009
+11,SO,Solothurn,2018,41487
+11,SO,Solothurn,2019,68085
+11,SO,Solothurn,2020,79551
+11,SO,Solothurn,2021,83983
+11,SO,Solothurn,2022,82586
+11,SO,Solothurn,2023,87059
+11,SO,Solothurn,2024,79761
+11,SO,Solothurn,2025,103319
+12,BS,Basel-Stadt,1975,773
+12,BS,Basel-Stadt,1980,322
+12,BS,Basel-Stadt,1985,889
+12,BS,Basel-Stadt,1990,575
+12,BS,Basel-Stadt,1996,386
+12,BS,Basel-Stadt,1997,357
+12,BS,Basel-Stadt,1998,286
+12,BS,Basel-Stadt,1999,512
+12,BS,Basel-Stadt,2000,539
+12,BS,Basel-Stadt,2001,377
+12,BS,Basel-Stadt,2002,399
+12,BS,Basel-Stadt,2003,325
+12,BS,Basel-Stadt,2004,378
+12,BS,Basel-Stadt,2005,296
+12,BS,Basel-Stadt,2006,294
+12,BS,Basel-Stadt,2007,303
+12,BS,Basel-Stadt,2008,310
+12,BS,Basel-Stadt,2009,316
+12,BS,Basel-Stadt,2010,336
+12,BS,Basel-Stadt,2011,366
+12,BS,Basel-Stadt,2012,382
+12,BS,Basel-Stadt,2013,377
+12,BS,Basel-Stadt,2014,365
+12,BS,Basel-Stadt,2015,325
+12,BS,Basel-Stadt,2016,360
+12,BS,Basel-Stadt,2017,370
+12,BS,Basel-Stadt,2018,285
+12,BS,Basel-Stadt,2019,505
+12,BS,Basel-Stadt,2020,505
+12,BS,Basel-Stadt,2021,570
+12,BS,Basel-Stadt,2022,592
+12,BS,Basel-Stadt,2023,602
+12,BS,Basel-Stadt,2024,572
+12,BS,Basel-Stadt,2025,511
+13,BL,Basel-Landschaft,1975,44193
+13,BL,Basel-Landschaft,1980,35041
+13,BL,Basel-Landschaft,1985,40470
+13,BL,Basel-Landschaft,1990,37503
+13,BL,Basel-Landschaft,1996,41019
+13,BL,Basel-Landschaft,1997,44988
+13,BL,Basel-Landschaft,1998,51191
+13,BL,Basel-Landschaft,1999,53688
+13,BL,Basel-Landschaft,2000,52065
+13,BL,Basel-Landschaft,2001,53133
+13,BL,Basel-Landschaft,2002,56305
+13,BL,Basel-Landschaft,2003,57214
+13,BL,Basel-Landschaft,2004,58352
+13,BL,Basel-Landschaft,2005,67559
+13,BL,Basel-Landschaft,2006,62190
+13,BL,Basel-Landschaft,2007,61003
+13,BL,Basel-Landschaft,2008,70829
+13,BL,Basel-Landschaft,2009,69672
+13,BL,Basel-Landschaft,2010,69422
+13,BL,Basel-Landschaft,2011,68285
+13,BL,Basel-Landschaft,2012,71634
+13,BL,Basel-Landschaft,2013,79140
+13,BL,Basel-Landschaft,2014,81706
+13,BL,Basel-Landschaft,2015,87508
+13,BL,Basel-Landschaft,2016,86785
+13,BL,Basel-Landschaft,2017,92746
+13,BL,Basel-Landschaft,2018,92918
+13,BL,Basel-Landschaft,2019,94407
+13,BL,Basel-Landschaft,2020,98755
+13,BL,Basel-Landschaft,2021,102374
+13,BL,Basel-Landschaft,2022,129898
+13,BL,Basel-Landschaft,2023,124722
+13,BL,Basel-Landschaft,2024,109246
+13,BL,Basel-Landschaft,2025,125425
+14,SH,Schaffhausen,1975,24492
+14,SH,Schaffhausen,1980,35219
+14,SH,Schaffhausen,1985,28473
+14,SH,Schaffhausen,1990,30353
+14,SH,Schaffhausen,1996,18111
+14,SH,Schaffhausen,1997,22488
+14,SH,Schaffhausen,1998,20656
+14,SH,Schaffhausen,1999,20324
+14,SH,Schaffhausen,2000,20928
+14,SH,Schaffhausen,2001,21565
+14,SH,Schaffhausen,2002,22521
+14,SH,Schaffhausen,2003,21854
+14,SH,Schaffhausen,2004,21761
+14,SH,Schaffhausen,2005,21425
+14,SH,Schaffhausen,2006,21004
+14,SH,Schaffhausen,2007,20760
+14,SH,Schaffhausen,2008,20605
+14,SH,Schaffhausen,2009,17253
+14,SH,Schaffhausen,2010,20219
+14,SH,Schaffhausen,2011,37499
+14,SH,Schaffhausen,2012,52430
+14,SH,Schaffhausen,2013,55539
+14,SH,Schaffhausen,2014,51521
+14,SH,Schaffhausen,2015,55239
+14,SH,Schaffhausen,2016,54806
+14,SH,Schaffhausen,2017,55537
+14,SH,Schaffhausen,2018,46843
+14,SH,Schaffhausen,2019,66613
+14,SH,Schaffhausen,2020,67165
+14,SH,Schaffhausen,2021,67231
+14,SH,Schaffhausen,2022,67677
+14,SH,Schaffhausen,2023,50054
+14,SH,Schaffhausen,2024,67856
+14,SH,Schaffhausen,2025,67166
+15,AR,Appenzell Ausserrhoden,1975,25991
+15,AR,Appenzell Ausserrhoden,1980,26132
+15,AR,Appenzell Ausserrhoden,1985,26478
+15,AR,Appenzell Ausserrhoden,1990,27643
+15,AR,Appenzell Ausserrhoden,1996,25170
+15,AR,Appenzell Ausserrhoden,1997,26885
+15,AR,Appenzell Ausserrhoden,1998,23896
+15,AR,Appenzell Ausserrhoden,1999,18665
+15,AR,Appenzell Ausserrhoden,2000,25300
+15,AR,Appenzell Ausserrhoden,2001,19479
+15,AR,Appenzell Ausserrhoden,2002,21902
+15,AR,Appenzell Ausserrhoden,2003,23213
+15,AR,Appenzell Ausserrhoden,2004,22297
+15,AR,Appenzell Ausserrhoden,2005,23104
+15,AR,Appenzell Ausserrhoden,2006,18017
+15,AR,Appenzell Ausserrhoden,2007,23740
+15,AR,Appenzell Ausserrhoden,2008,24085
+15,AR,Appenzell Ausserrhoden,2009,25889
+15,AR,Appenzell Ausserrhoden,2010,30021
+15,AR,Appenzell Ausserrhoden,2011,27672
+15,AR,Appenzell Ausserrhoden,2012,25288
+15,AR,Appenzell Ausserrhoden,2013,27271
+15,AR,Appenzell Ausserrhoden,2014,29176
+15,AR,Appenzell Ausserrhoden,2015,29618
+15,AR,Appenzell Ausserrhoden,2016,30898
+15,AR,Appenzell Ausserrhoden,2017,30603
+15,AR,Appenzell Ausserrhoden,2018,28114
+15,AR,Appenzell Ausserrhoden,2019,31637
+15,AR,Appenzell Ausserrhoden,2020,34438
+15,AR,Appenzell Ausserrhoden,2021,37150
+15,AR,Appenzell Ausserrhoden,2022,35875
+15,AR,Appenzell Ausserrhoden,2023,31843
+15,AR,Appenzell Ausserrhoden,2024,33497
+15,AR,Appenzell Ausserrhoden,2025,33741
+16,AI,Appenzell Innerrhoden,1975,70153
+16,AI,Appenzell Innerrhoden,1980,77473
+16,AI,Appenzell Innerrhoden,1985,92880
+16,AI,Appenzell Innerrhoden,1990,86805
+16,AI,Appenzell Innerrhoden,1996,95948
+16,AI,Appenzell Innerrhoden,1997,92611
+16,AI,Appenzell Innerrhoden,1998,100979
+16,AI,Appenzell Innerrhoden,1999,95280
+16,AI,Appenzell Innerrhoden,2000,88782
+16,AI,Appenzell Innerrhoden,2001,108058
+16,AI,Appenzell Innerrhoden,2002,101709
+16,AI,Appenzell Innerrhoden,2003,102716
+16,AI,Appenzell Innerrhoden,2004,90350
+16,AI,Appenzell Innerrhoden,2005,90982
+16,AI,Appenzell Innerrhoden,2006,90211
+16,AI,Appenzell Innerrhoden,2007,90757
+16,AI,Appenzell Innerrhoden,2008,85733
+16,AI,Appenzell Innerrhoden,2009,87976
+16,AI,Appenzell Innerrhoden,2010,93820
+16,AI,Appenzell Innerrhoden,2011,87805
+16,AI,Appenzell Innerrhoden,2012,91428
+16,AI,Appenzell Innerrhoden,2013,95319
+16,AI,Appenzell Innerrhoden,2014,93282
+16,AI,Appenzell Innerrhoden,2015,95585
+16,AI,Appenzell Innerrhoden,2016,93191
+16,AI,Appenzell Innerrhoden,2017,104135
+16,AI,Appenzell Innerrhoden,2018,97813
+16,AI,Appenzell Innerrhoden,2019,101477
+16,AI,Appenzell Innerrhoden,2020,103347
+16,AI,Appenzell Innerrhoden,2021,112278
+16,AI,Appenzell Innerrhoden,2022,114485
+16,AI,Appenzell Innerrhoden,2023,98159
+16,AI,Appenzell Innerrhoden,2024,98222
+16,AI,Appenzell Innerrhoden,2025,101615
+17,SG,St. Gallen,1975,214242
+17,SG,St. Gallen,1980,218837
+17,SG,St. Gallen,1985,244456
+17,SG,St. Gallen,1990,253313
+17,SG,St. Gallen,1996,213740
+17,SG,St. Gallen,1997,235179
+17,SG,St. Gallen,1998,226803
+17,SG,St. Gallen,1999,246109
+17,SG,St. Gallen,2000,238935
+17,SG,St. Gallen,2001,239037
+17,SG,St. Gallen,2002,250945
+17,SG,St. Gallen,2003,247675
+17,SG,St. Gallen,2004,258444
+17,SG,St. Gallen,2005,266446
+17,SG,St. Gallen,2006,267509
+17,SG,St. Gallen,2007,265767
+17,SG,St. Gallen,2008,265198
+17,SG,St. Gallen,2009,261641
+17,SG,St. Gallen,2010,265979
+17,SG,St. Gallen,2011,276186
+17,SG,St. Gallen,2012,273952
+17,SG,St. Gallen,2013,278839
+17,SG,St. Gallen,2014,302702
+17,SG,St. Gallen,2015,327929
+17,SG,St. Gallen,2016,338497
+17,SG,St. Gallen,2017,333974
+17,SG,St. Gallen,2018,346704
+17,SG,St. Gallen,2019,356660
+17,SG,St. Gallen,2020,360557
+17,SG,St. Gallen,2021,393758
+17,SG,St. Gallen,2022,411081
+17,SG,St. Gallen,2023,380260
+17,SG,St. Gallen,2024,387591
+17,SG,St. Gallen,2025,390385
+18,GR,Graubünden / Grigioni / Grischun,1975,40625
+18,GR,Graubünden / Grigioni / Grischun,1980,33564
+18,GR,Graubünden / Grigioni / Grischun,1985,47969
+18,GR,Graubünden / Grigioni / Grischun,1990,42896
+18,GR,Graubünden / Grigioni / Grischun,1996,38759
+18,GR,Graubünden / Grigioni / Grischun,1997,40662
+18,GR,Graubünden / Grigioni / Grischun,1998,39965
+18,GR,Graubünden / Grigioni / Grischun,1999,38951
+18,GR,Graubünden / Grigioni / Grischun,2000,39225
+18,GR,Graubünden / Grigioni / Grischun,2001,34106
+18,GR,Graubünden / Grigioni / Grischun,2002,33353
+18,GR,Graubünden / Grigioni / Grischun,2003,31037
+18,GR,Graubünden / Grigioni / Grischun,2004,31263
+18,GR,Graubünden / Grigioni / Grischun,2005,31646
+18,GR,Graubünden / Grigioni / Grischun,2006,31806
+18,GR,Graubünden / Grigioni / Grischun,2007,31762
+18,GR,Graubünden / Grigioni / Grischun,2008,31120
+18,GR,Graubünden / Grigioni / Grischun,2009,31515
+18,GR,Graubünden / Grigioni / Grischun,2010,34308
+18,GR,Graubünden / Grigioni / Grischun,2011,33569
+18,GR,Graubünden / Grigioni / Grischun,2012,29262
+18,GR,Graubünden / Grigioni / Grischun,2013,29890
+18,GR,Graubünden / Grigioni / Grischun,2014,27316
+18,GR,Graubünden / Grigioni / Grischun,2015,31043
+18,GR,Graubünden / Grigioni / Grischun,2016,30682
+18,GR,Graubünden / Grigioni / Grischun,2017,32485
+18,GR,Graubünden / Grigioni / Grischun,2018,37706
+18,GR,Graubünden / Grigioni / Grischun,2019,34515
+18,GR,Graubünden / Grigioni / Grischun,2020,41005
+18,GR,Graubünden / Grigioni / Grischun,2021,44613
+18,GR,Graubünden / Grigioni / Grischun,2022,43650
+18,GR,Graubünden / Grigioni / Grischun,2023,42525
+18,GR,Graubünden / Grigioni / Grischun,2024,43289
+18,GR,Graubünden / Grigioni / Grischun,2025,43429
+19,AG,Aargau,1975,396777
+19,AG,Aargau,1980,375583
+19,AG,Aargau,1985,324110
+19,AG,Aargau,1990,287540
+19,AG,Aargau,1996,262754
+19,AG,Aargau,1997,265863
+19,AG,Aargau,1998,275661
+19,AG,Aargau,1999,231503
+19,AG,Aargau,2000,234360
+19,AG,Aargau,2001,226891
+19,AG,Aargau,2002,220182
+19,AG,Aargau,2003,245058
+19,AG,Aargau,2004,240331
+19,AG,Aargau,2005,247589
+19,AG,Aargau,2006,254642
+19,AG,Aargau,2007,245388
+19,AG,Aargau,2008,259200
+19,AG,Aargau,2009,276975
+19,AG,Aargau,2010,302691
+19,AG,Aargau,2011,319352
+19,AG,Aargau,2012,327640
+19,AG,Aargau,2013,317123
+19,AG,Aargau,2014,351349
+19,AG,Aargau,2015,377305
+19,AG,Aargau,2016,389261
+19,AG,Aargau,2017,391815
+19,AG,Aargau,2018,419269
+19,AG,Aargau,2019,422336
+19,AG,Aargau,2020,435185
+19,AG,Aargau,2021,431480
+19,AG,Aargau,2022,432480
+19,AG,Aargau,2023,411955
+19,AG,Aargau,2024,417397
+19,AG,Aargau,2025,421741
+20,TG,Thurgau,1975,296657
+20,TG,Thurgau,1980,248651
+20,TG,Thurgau,1985,266715
+20,TG,Thurgau,1990,245772
+20,TG,Thurgau,1996,211463
+20,TG,Thurgau,1997,199713
+20,TG,Thurgau,1998,203369
+20,TG,Thurgau,1999,193108
+20,TG,Thurgau,2000,190381
+20,TG,Thurgau,2001,179642
+20,TG,Thurgau,2002,157380
+20,TG,Thurgau,2003,170071
+20,TG,Thurgau,2004,174270
+20,TG,Thurgau,2005,180354
+20,TG,Thurgau,2006,165001
+20,TG,Thurgau,2007,169305
+20,TG,Thurgau,2008,183079
+20,TG,Thurgau,2009,199396
+20,TG,Thurgau,2010,202786
+20,TG,Thurgau,2011,206801
+20,TG,Thurgau,2012,215432
+20,TG,Thurgau,2013,221627
+20,TG,Thurgau,2014,227281
+20,TG,Thurgau,2015,246565
+20,TG,Thurgau,2016,250156
+20,TG,Thurgau,2017,279360
+20,TG,Thurgau,2018,278313
+20,TG,Thurgau,2019,338616
+20,TG,Thurgau,2020,347478
+20,TG,Thurgau,2021,341005
+20,TG,Thurgau,2022,382846
+20,TG,Thurgau,2023,365964
+20,TG,Thurgau,2024,363632
+20,TG,Thurgau,2025,357944
+21,TI,Ticino,1975,39871
+21,TI,Ticino,1980,33588
+21,TI,Ticino,1985,48558
+21,TI,Ticino,1990,41706
+21,TI,Ticino,1996,36970
+21,TI,Ticino,1997,24794
+21,TI,Ticino,1998,27804
+21,TI,Ticino,1999,26096
+21,TI,Ticino,2000,31522
+21,TI,Ticino,2001,11399
+21,TI,Ticino,2002,11493
+21,TI,Ticino,2003,33803
+21,TI,Ticino,2004,14324
+21,TI,Ticino,2005,30811
+21,TI,Ticino,2006,25051
+21,TI,Ticino,2007,23624
+21,TI,Ticino,2008,23056
+21,TI,Ticino,2009,21874
+21,TI,Ticino,2010,40200
+21,TI,Ticino,2011,41485
+21,TI,Ticino,2012,41918
+21,TI,Ticino,2013,16721
+21,TI,Ticino,2014,13599
+21,TI,Ticino,2015,12219
+21,TI,Ticino,2016,63157
+21,TI,Ticino,2017,48373
+21,TI,Ticino,2018,65930
+21,TI,Ticino,2019,61983
+21,TI,Ticino,2020,63003
+21,TI,Ticino,2021,59742
+21,TI,Ticino,2022,44724
+21,TI,Ticino,2023,45839
+21,TI,Ticino,2024,43645
+21,TI,Ticino,2025,46500
+22,VD,Vaud,1975,258788
+22,VD,Vaud,1980,243456
+22,VD,Vaud,1985,208162
+22,VD,Vaud,1990,183258
+22,VD,Vaud,1996,130430
+22,VD,Vaud,1997,158220
+22,VD,Vaud,1998,146874
+22,VD,Vaud,1999,152811
+22,VD,Vaud,2000,141564
+22,VD,Vaud,2001,141442
+22,VD,Vaud,2002,138214
+22,VD,Vaud,2003,115103
+22,VD,Vaud,2004,124408
+22,VD,Vaud,2005,121730
+22,VD,Vaud,2006,117676
+22,VD,Vaud,2007,158324
+22,VD,Vaud,2008,170946
+22,VD,Vaud,2009,146772
+22,VD,Vaud,2010,128390
+22,VD,Vaud,2011,130674
+22,VD,Vaud,2012,146185
+22,VD,Vaud,2013,188285
+22,VD,Vaud,2014,188110
+22,VD,Vaud,2015,209036
+22,VD,Vaud,2016,233253
+22,VD,Vaud,2017,180892
+22,VD,Vaud,2018,229804
+22,VD,Vaud,2019,238961
+22,VD,Vaud,2020,382941
+22,VD,Vaud,2021,262501
+22,VD,Vaud,2022,240639
+22,VD,Vaud,2023,262484
+22,VD,Vaud,2024,263369
+22,VD,Vaud,2025,274339
+23,VS,Valais / Wallis,1975,118109
+23,VS,Valais / Wallis,1980,159742
+23,VS,Valais / Wallis,1985,147199
+23,VS,Valais / Wallis,1990,245125
+23,VS,Valais / Wallis,1996,64105
+23,VS,Valais / Wallis,1997,63585
+23,VS,Valais / Wallis,1998,62140
+23,VS,Valais / Wallis,1999,80518
+23,VS,Valais / Wallis,2000,56530
+23,VS,Valais / Wallis,2001,47719
+23,VS,Valais / Wallis,2002,63193
+23,VS,Valais / Wallis,2003,41400
+23,VS,Valais / Wallis,2004,49458
+23,VS,Valais / Wallis,2005,59601
+23,VS,Valais / Wallis,2006,49898
+23,VS,Valais / Wallis,2007,52579
+23,VS,Valais / Wallis,2008,47903
+23,VS,Valais / Wallis,2009,52298
+23,VS,Valais / Wallis,2010,90364
+23,VS,Valais / Wallis,2011,50714
+23,VS,Valais / Wallis,2012,48679
+23,VS,Valais / Wallis,2013,45143
+23,VS,Valais / Wallis,2014,58487
+23,VS,Valais / Wallis,2015,58286
+23,VS,Valais / Wallis,2016,49649
+23,VS,Valais / Wallis,2017,159671
+23,VS,Valais / Wallis,2018,207293
+23,VS,Valais / Wallis,2019,167154
+23,VS,Valais / Wallis,2020,214257
+23,VS,Valais / Wallis,2021,221826
+23,VS,Valais / Wallis,2022,182780
+23,VS,Valais / Wallis,2023,213309
+23,VS,Valais / Wallis,2024,165880
+23,VS,Valais / Wallis,2025,156378
+24,NE,Neuchâtel,1975,50172
+24,NE,Neuchâtel,1980,48097
+24,NE,Neuchâtel,1985,47459
+24,NE,Neuchâtel,1990,41150
+24,NE,Neuchâtel,1996,35087
+24,NE,Neuchâtel,1997,37763
+24,NE,Neuchâtel,1998,37792
+24,NE,Neuchâtel,1999,35064
+24,NE,Neuchâtel,2000,36644
+24,NE,Neuchâtel,2001,27906
+24,NE,Neuchâtel,2002,36980
+24,NE,Neuchâtel,2003,39846
+24,NE,Neuchâtel,2004,34201
+24,NE,Neuchâtel,2005,33012
+24,NE,Neuchâtel,2006,29460
+24,NE,Neuchâtel,2007,27776
+24,NE,Neuchâtel,2008,25302
+24,NE,Neuchâtel,2009,37414
+24,NE,Neuchâtel,2010,37359
+24,NE,Neuchâtel,2011,37226
+24,NE,Neuchâtel,2012,33036
+24,NE,Neuchâtel,2013,40288
+24,NE,Neuchâtel,2014,38855
+24,NE,Neuchâtel,2015,54347
+24,NE,Neuchâtel,2016,57235
+24,NE,Neuchâtel,2017,62201
+24,NE,Neuchâtel,2018,56233
+24,NE,Neuchâtel,2019,57609
+24,NE,Neuchâtel,2020,57465
+24,NE,Neuchâtel,2021,51245
+24,NE,Neuchâtel,2022,53039
+24,NE,Neuchâtel,2023,50841
+24,NE,Neuchâtel,2024,49715
+24,NE,Neuchâtel,2025,50612
+25,GE,Genève,1975,47285
+25,GE,Genève,1980,44217
+25,GE,Genève,1985,19633
+25,GE,Genève,1990,17805
+25,GE,Genève,1996,11022
+25,GE,Genève,1997,12228
+25,GE,Genève,1998,10747
+25,GE,Genève,1999,11534
+25,GE,Genève,2000,6681
+25,GE,Genève,2001,6547
+25,GE,Genève,2002,6777
+25,GE,Genève,2003,7225
+25,GE,Genève,2004,5342
+25,GE,Genève,2005,5292
+25,GE,Genève,2006,5294
+25,GE,Genève,2007,5301
+25,GE,Genève,2008,4627
+25,GE,Genève,2009,4206
+25,GE,Genève,2010,2661
+25,GE,Genève,2011,1569
+25,GE,Genève,2012,1539
+25,GE,Genève,2013,2152
+25,GE,Genève,2014,2486
+25,GE,Genève,2015,3180
+25,GE,Genève,2016,15420
+25,GE,Genève,2017,14943
+25,GE,Genève,2018,15786
+25,GE,Genève,2019,16472
+25,GE,Genève,2020,17308
+25,GE,Genève,2021,20494
+25,GE,Genève,2022,15078
+25,GE,Genève,2023,28112
+25,GE,Genève,2024,28267
+25,GE,Genève,2025,28730
+26,JU,Jura,1975,173605
+26,JU,Jura,1980,119497
+26,JU,Jura,1985,109086
+26,JU,Jura,1990,49574
+26,JU,Jura,1996,50475
+26,JU,Jura,1997,50334
+26,JU,Jura,1998,49900
+26,JU,Jura,1999,37886
+26,JU,Jura,2000,47122
+26,JU,Jura,2001,40398
+26,JU,Jura,2002,34509
+26,JU,Jura,2003,39447
+26,JU,Jura,2004,41248
+26,JU,Jura,2005,35973
+26,JU,Jura,2006,44422
+26,JU,Jura,2007,38645
+26,JU,Jura,2008,39412
+26,JU,Jura,2009,38126
+26,JU,Jura,2010,41814
+26,JU,Jura,2011,48501
+26,JU,Jura,2012,46259
+26,JU,Jura,2013,47839
+26,JU,Jura,2014,53202
+26,JU,Jura,2015,44946
+26,JU,Jura,2016,59806
+26,JU,Jura,2017,65592
+26,JU,Jura,2018,67819
+26,JU,Jura,2019,83830
+26,JU,Jura,2020,101377
+26,JU,Jura,2021,116559
+26,JU,Jura,2022,117980
+26,JU,Jura,2023,112119
+26,JU,Jura,2024,97171
+26,JU,Jura,2025,115366
